@@ -1,4 +1,4 @@
-# DriveClonr
+# DriveCloner
 DriveClonr is a simple Python script whose sole task is to clone (Download EVERYTHING) from a user's Google Drive
 
 It was created as a direct response to my graduation of high school, and the imminent threat of my school Google account being deleted 
